@@ -65,5 +65,7 @@ int main()
     printf("\nDisciplina %s", disciplina);
     printf("E paga %.2f de mensalidade", mensalidade);
 
+    printf("teste");
+
     return 0;
     }
